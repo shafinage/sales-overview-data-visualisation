@@ -41,7 +41,7 @@ CMO-Focused Questions (Marketing & Customer View)
 
 Because the main business is located in the UK, the analysis is filtered by country selection (with and without the UK).
 
-### [Dashboard 1 - Business & Market Overview](https://public.tableau.com/views/MarketandProductRevenue/SalesRevenueOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### 🔗 [Dashboard 1 - Business & Market Overview](https://public.tableau.com/views/MarketandProductRevenue/SalesRevenueOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Total revenue
 - Revenue trend
 - Top & bottom countries by revenue
@@ -49,7 +49,7 @@ Because the main business is located in the UK, the analysis is filtered by coun
 - Cumulative revenue (Pareto / concentration analysis)
 - Monthly trends of revenue, quantity, and orders for top 3 countries
 
-### [Dashboard 2 - Product & Pricing Insight](https://public.tableau.com/views/ProductandPricingInsight/Products?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### 🔗 [Dashboard 2 - Product & Pricing Insight](https://public.tableau.com/views/ProductandPricingInsight/Products?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Top 10 products by revenue or quantity (parameter-driven)
 - Bottom 5 products by revenue
 - Customer purchase frequency distribution
